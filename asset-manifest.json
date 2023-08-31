@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/pui-react-template/static/css/main.c46ec2a5.css",
-    "main.js": "/pui-react-template/static/js/main.a392b41f.js",
+    "main.css": "/pui-react-template/static/css/main.2916a429.css",
+    "main.js": "/pui-react-template/static/js/main.fcd4a2a7.js",
+    "static/js/787.4c29b0b3.chunk.js": "/pui-react-template/static/js/787.4c29b0b3.chunk.js",
     "index.html": "/pui-react-template/index.html",
-    "main.c46ec2a5.css.map": "/pui-react-template/static/css/main.c46ec2a5.css.map",
-    "main.a392b41f.js.map": "/pui-react-template/static/js/main.a392b41f.js.map"
+    "main.2916a429.css.map": "/pui-react-template/static/css/main.2916a429.css.map",
+    "main.fcd4a2a7.js.map": "/pui-react-template/static/js/main.fcd4a2a7.js.map",
+    "787.4c29b0b3.chunk.js.map": "/pui-react-template/static/js/787.4c29b0b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c46ec2a5.css",
-    "static/js/main.a392b41f.js"
+    "static/css/main.2916a429.css",
+    "static/js/main.fcd4a2a7.js"
   ]
 }
