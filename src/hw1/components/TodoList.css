@@ -1,0 +1,10 @@
+.todoListContainer {
+    margin-top: 20px;
+  }
+  
+  .inputWrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
