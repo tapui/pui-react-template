@@ -15,15 +15,17 @@ function TodoItem({ todo, todos, setTodos }) {
   };
 
   return (
-    <li className={todo.completed ? 'completed' : ''}>
-      {todo.text}
-      <div className="todoActions">
-        <button onClick={toggleCompletion}>
-          {todo.completed ? 'Undo' : 'Complete'}
-        </button>
-        <button onClick={deleteTodo}>Delete</button>
-      </div>
-    </li>
+    <div className="todo-item">
+      <li className={todo.completed ? 'completed' : ''}>
+        {todo.text}
+        <div className="todoActions">
+          <button onClick={toggleCompletion}>
+            {todo.completed ? 'Undo' : 'Complete'}
+          </button>
+          <button onClick={deleteTodo}>Delete</button>
+        </div>
+      </li>
+    </div>
   );
 }
 
